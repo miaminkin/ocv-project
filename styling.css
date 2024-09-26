@@ -3119,7 +3119,7 @@ For help and/or CSS snippets, thanks to:
   
   /* Fill color for nodes */
   .graph-view.color-fill {
-    color: var(--text-muted);
+    color: --red;
   }
   /* Fill color for nodes on hover */
   .graph-view.color-fill-highlight {
