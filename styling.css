@@ -55,14 +55,10 @@ For help and/or CSS snippets, thanks to:
     --accent-d: 70%; /* Accent lightness Dark Mode */
     --accent-l: 60%; /* Accent lightness Light Mode */
   
-    --blue: #2e80f2;
-    --pink: #ff82b2;
-    --green: #3eb4bf;
-    --yellow: #e5b567;
-    --orange: #e87d3e;
-    --red: #e83e3e;
-    --purple: #9e86c8;
-  
+    --red: #C8282E;
+    --teal: #1899A3;
+    --purple: #701C85;
+
     --light-yellow-highlighter: #fff3a3a6;
     --dark-yellow-highlighter: #ffed7977;
     --pink-highlighter: #ffb8eba6;
