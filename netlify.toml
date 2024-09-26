@@ -6,11 +6,11 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "💰 Follow the Money 💰"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "I have nothing but intelligence."
+LANDING_DESCRIPTION = "Only Citizens Vote Coalition"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "home"
 # (Optional) Site title on landing page
-LANDING_TITLE = "Only Citizens Vote Coalition - Interactive Map"
+LANDING_TITLE = "Interactive Map"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/miaminkin/ocv-project"
