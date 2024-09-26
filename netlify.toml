@@ -48,9 +48,10 @@ ROOT_SECTION_NAME = "main"
 GRAPH_OPTIONS = """
         {
         	nodes: {
-        		shape: "star",
+        		shape: "circle",
                
         		color: isDark() ? "#8c8e91" : "#dee2e6",
+                
         		font: {
         			face: "Roboto",
         			color: isDark() ? "#c9cdd1" : "#616469",
