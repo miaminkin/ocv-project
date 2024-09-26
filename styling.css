@@ -2033,7 +2033,7 @@ For help and/or CSS snippets, thanks to:
     margin-left: 0;
   }
   .side-dock-collapsible-section-header:hover,
-  .side-dock-collapsible-section-header:not(.is-collapsed) {
+  .side-dock-collapsible-section-header:(.is-collapsed) {
     color: var(--text-muted);
     background: transparent;
   }
