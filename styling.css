@@ -6212,25 +6212,21 @@ For help and/or CSS snippets, thanks to:
           title: Text font
           description: Used in preview mode
           type: variable-text
-          default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif
       -
           id: text-editor
           title: Editor font
           description: Used in edit mode
           type: variable-text
-          default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif
       -
           id: font-monospace
           title: Monospace font
           description: Used for code blocks and front matter
           type: variable-text
-          default: JetBrains Mono,Menlo,SFMono-Regular,Consolas,"Roboto Mono",monospace
       -
           id: font-ui
           title: UI font
           description: Used for buttons, menus and sidebar
           type: variable-text
-          default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif
       -
           id: custom-fonts
           title: Typography
