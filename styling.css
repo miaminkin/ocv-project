@@ -90,13 +90,11 @@ For help and/or CSS snippets, thanks to:
   
     /* Code */
   
-    --font-monospace: 'JetBrains Mono', SFMono-Regular, Consolas, 'Roboto Mono',
-      monospace;
+    --font-monospace: 'Roboto', sans-serif;
   
     /* UI */
   
-    --font-ui: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans,
-      Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    --font-ui: 'Roboto', sans-serif;
   
     /* Colors, sizes, weights, padding */
   
