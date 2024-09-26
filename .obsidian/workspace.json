@@ -11,10 +11,11 @@
             "id": "deba63dbe8df1a77",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".DS_Store",
-                "staged": false
+                "file": "Grants Received/Tea Party Patriots Action.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Grants Received/Tea Party Patriots Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Grants Received/Tea Party Patriots Action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Grants Received/Tea Party Patriots Action.md"
+              }
             }
           },
           {
@@ -152,6 +157,10 @@
   },
   "active": "a16e5c4d620b3b19",
   "lastOpenFiles": [
+    "https:/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@github.com/miaminkin/ocv-project.git",
+    "https:/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@github.com/miaminkin",
+    "https:/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@github.com",
+    "https:",
     "Grants Given/American Gift Fund.md",
     "Logos/Advancing American Freedom - Logo.png",
     "README.md"
