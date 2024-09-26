@@ -11,11 +11,10 @@
             "id": "deba63dbe8df1a77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Grants Received/Tea Party Patriots Action.md",
-                "mode": "source",
-                "source": false
+                "file": ".DS_Store",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grants Received/Tea Party Patriots Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grants Received/Tea Party Patriots Action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Grants Received/Tea Party Patriots Action.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,14 +150,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a16e5c4d620b3b19",
+  "active": "deba63dbe8df1a77",
   "lastOpenFiles": [
+    "organization-officers/William Valentine.md",
+    "organization-officers/William Pascoe iii.md",
+    "organization-officers/William Davis.md",
+    "organization-officers/Wesley Denton.md",
+    "organization-officers/Trent England.md",
+    "organization-officers/Wade Miller.md",
+    "organization-officers/Vivian Brown.md",
+    "organization-officers/Tom Jones.md",
+    "organization-officers/Tonya Gollotte.md",
+    "organization-officers/Todd Graves.md",
+    "organization-officers/Timothy Donnor.md",
+    "organization-officers/Susan Becker.md",
+    "organization-officers/Susan Hirschmann.md",
+    "organization-officers/Thomas Dillon.md",
+    "organization-officers/Stephen Pryor.md",
+    "organization-officers/Tarren Bragdon.md",
+    "organization-officers/Stephen Miller.md",
+    "organization-officers/Stephen Billy.md",
+    "organization-officers/Shawna Powell.md",
+    "organization-officers/Sam Sorbo.md",
+    "organization-officers/Shonda Weery.md",
+    "organization-officers/Shane Jackson.md",
+    "organization-officers/Sean Fieler.md",
+    "organization-officers/Samuel Adolphsen.md",
+    "organization-officers/Robin Walker.md",
+    "organization-officers/Russ Vought.md",
+    "organization-officers",
+    "logos/issue-one-logo-small-notag.png",
+    "logos/Virginia Institute Action - Logo.png",
+    "logos/Tea Party Patriots Action - Logo.png",
+    "logos/SBA - Logo.png",
+    "logos/PILF - Logo.png",
+    "logos/Moms For America - Logo.png",
+    "logos/IssueOne_Logo_onWhite.png",
+    "logos/Fidelis - Logo.png",
+    "logos/FJI - Logo.png",
+    "logos/FGA - Logo.png",
+    "logos",
+    "grants-received",
+    "grants-given",
+    "netlify.toml",
     "https:/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@github.com/miaminkin/ocv-project.git",
     "https:/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@github.com/miaminkin",
     "https:/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@github.com",
-    "https:",
-    "Grants Given/American Gift Fund.md",
-    "Logos/Advancing American Freedom - Logo.png",
-    "README.md"
+    "https:"
   ]
 }
