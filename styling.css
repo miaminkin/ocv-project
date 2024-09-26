@@ -80,13 +80,11 @@ For help and/or CSS snippets, thanks to:
   
     /* Preview mode */
   
-    --text: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans,
-      Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    --text: 'Roboto', sans-serif;
   
     /* Editor mode */
   
-    --text-editor: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-      Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    --text-editor:'Roboto', sans-serif;
   
     /* Code */
   
